@@ -1,5 +1,9 @@
 # serials
 
+<p align="center">
+  <img src=".github/logo.png" alt="serials logo" width="128" />
+</p>
+
 A small PHP and MySQL application for storing and searching serial number
 entries.
 
